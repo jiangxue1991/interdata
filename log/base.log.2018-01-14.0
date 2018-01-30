@@ -1,0 +1,46 @@
+2018-01-14 15:25:46,434 INFO (StartupInfoLogger.java:48)- Starting InterdataApplicationTests on zhuyumeng-PC with PID 4104 (started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:25:46,439 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:25:46,440 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:25:57,693 INFO (StartupInfoLogger.java:57)- Started InterdataApplicationTests in 12.523 seconds (JVM running for 15.877)
+2018-01-14 15:33:14,128 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 6256 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:33:14,128 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:33:14,128 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:33:21,745 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 8.305 seconds (JVM running for 12.592)
+2018-01-14 15:35:19,727 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 1628 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:35:19,727 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:35:19,728 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:35:26,349 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 7.171 seconds (JVM running for 11.998)
+2018-01-14 15:36:36,984 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select name from city 
+2018-01-14 15:36:37,017 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-01-14 15:36:37,079 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-01-14 15:37:01,815 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select name from city 
+2018-01-14 15:37:01,816 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-01-14 15:37:01,855 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-01-14 15:39:55,205 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 3440 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:39:55,206 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:39:55,206 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:40:23,629 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 7256 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:40:23,629 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:40:23,629 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:40:31,249 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 8.531 seconds (JVM running for 10.483)
+2018-01-14 15:40:45,364 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select name from city 
+2018-01-14 15:40:45,412 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-01-14 15:40:45,481 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-01-14 15:48:41,172 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 2076 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:48:41,172 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:48:41,173 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:48:47,901 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 7.434 seconds (JVM running for 9.514)
+2018-01-14 15:49:39,707 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 2316 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:49:39,708 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:49:39,708 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:49:47,089 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 8.313 seconds (JVM running for 10.67)
+2018-01-14 15:50:25,424 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 7504 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-14 15:50:25,424 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-14 15:50:25,425 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-14 15:50:31,753 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 7.601 seconds (JVM running for 9.583)
+2018-01-14 15:50:39,728 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select name from city 
+2018-01-14 15:50:39,759 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-01-14 15:50:39,822 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-01-14 15:58:18,507 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: select name from city 
+2018-01-14 15:58:18,508 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-01-14 15:58:18,539 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2

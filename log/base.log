@@ -1,0 +1,4 @@
+2018-01-23 22:43:37,096 INFO (StartupInfoLogger.java:48)- Starting InterdataApplication on zhuyumeng-PC with PID 9452 (D:\zyminferdata\interdata\target\classes started by zhuyumeng in D:\zyminferdata\interdata)
+2018-01-23 22:43:37,099 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.9.RELEASE, Spring v4.3.13.RELEASE
+2018-01-23 22:43:37,099 INFO (SpringApplication.java:597)- The following profiles are active: dev
+2018-01-23 22:43:58,118 INFO (StartupInfoLogger.java:57)- Started InterdataApplication in 23.251 seconds (JVM running for 32.871)
