@@ -1,13 +1,15 @@
 package com.zym.wx.interdata.common.httpdeal;
 
-import org.apache.log4j.Logger;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import javax.servlet.http.HttpServletRequest;
 import java.io.BufferedReader;
 
 public class RequestDeal {
 
-	private Logger logger= Logger.getLogger(getClass());
+	private Logger logger= LoggerFactory.getLogger(RequestDeal.class);
 
 	private static RequestDeal instance;
 
@@ -28,7 +30,7 @@ public class RequestDeal {
 			}
 			logger.info("后台传递字符串为："+json);
 		} catch (Exception e) {
-			Logger.getLogger(getClass()).error("readJSONString", e);
+			logger.error("readJSONString", e);
 		}
 		return json.toString();
 	}
