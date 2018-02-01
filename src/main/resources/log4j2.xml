@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="60">
+    <Properties>
+        <Property name="PATTERN">%d|%-5p|[%X{IP}]|[%X{REQ}]|[%t]|%C{1}|%F:%L|%m%n</Property>
+    </Properties>
+    <Appenders>
+        <Socket name="Logstash" host="222.175.121.250" port="1560" protocol="TCP">
+            <PatternLayout pattern="${PATTERN}" />
+        </Socket>
+    </Appenders>
+    <Loggers>
+        <Root level="error">
+            <AppenderRef ref="Logstash"/>
+            <!--<AppenderRef ref="console"/>-->
+        </Root>
+        <Logger name="Error" level="error" additivity="false">
+            <AppenderRef ref="Logstash"/>
+        </Logger>
+        <Logger name="Request" level="info" additivity="false">
+            <AppenderRef ref="Logstash"/>
+        </Logger>
+    </Loggers>
+</Configuration>
